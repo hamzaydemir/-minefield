@@ -1,0 +1,18 @@
+C:\Users\hamza\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\bin\Debug\Mayın Tarlası.exe.config
+C:\Users\hamza\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\bin\Debug\Mayın Tarlası.exe
+C:\Users\hamza\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\bin\Debug\Mayın Tarlası.pdb
+C:\Users\hamza\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.csprojResolveAssemblyReference.cache
+C:\Users\hamza\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın_Tarlası.Form1.resources
+C:\Users\hamza\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın_Tarlası.Properties.Resources.resources
+C:\Users\hamza\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.csproj.GenerateResource.Cache
+C:\Users\hamza\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.exe
+C:\Users\hamza\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.pdb
+E:\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\bin\Debug\Mayın Tarlası.exe.config
+E:\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.exe
+E:\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.pdb
+E:\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\bin\Debug\Mayın Tarlası.exe
+E:\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\bin\Debug\Mayın Tarlası.pdb
+E:\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.csprojResolveAssemblyReference.cache
+E:\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın_Tarlası.Form1.resources
+E:\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın_Tarlası.Properties.Resources.resources
+E:\Mayın Tarlası\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.csproj.GenerateResource.Cache
